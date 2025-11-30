@@ -1,9 +1,6 @@
-Polybius wrote about the different cycles inherent in politics, he called the
-evolution of these cycles, anacyclosis. 
+Polybius wrote about the different cycles inherent in politics. He called the evolution of these cycles anacyclosis.
 
-He described them as systems that initially arised in virtue to solve a
-current problem in society, but the same origin of such systems 
-contained the seed of it's own destruction.
+He described them as systems that initially arose in virtue to solve a current problem in society, but the same origin of such systems contained the seed of their own destruction.
 
 He proposed six stages, cycling between good and bad forms of government:
 1) Monarchy (rule by one, just)
@@ -13,9 +10,7 @@ He proposed six stages, cycling between good and bad forms of government:
 5) Democracy (rule by the many, just)
 6) Ochlocracy (mob rule, chaos, democracy turns corrupt)
 
-There are modern adaptations, but the core idea is that no political system
-is stable forever. 
+There are modern adaptations, but the core idea is that no political system is stable forever.
 
-As it evolves, it degenerates, almost like a rule of nature, it decayse into a distorted version of itself before collapsing and restarting in another form.
-
+As it evolves, it degenerates, almost like a rule of nature, decaying into a distorted version of itself before collapsing and restarting in another form.
 
