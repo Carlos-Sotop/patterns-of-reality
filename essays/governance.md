@@ -23,3 +23,16 @@ With time, and as that mission is accomplised or that threat is neutralized, the
 
 Bad leaders fail because they either a) fail to renew the long-term mission, or b) lacking substance, build coercive systems to hold the collapsing status quo together. Examples of this are:
 
+**Failure to Renew Mission:**
+- Late Roman emperors who, after centuries of expansion and consolidation, offered no compelling vision beyond maintenance, leading to internal fragmentation and loss of civic virtue
+- The Soviet Union's post-revolutionary generations, who inherited a completed revolution but received only stagnant bureaucracy rather than renewed purpose, resulting in cynicism and eventual collapse
+- European monarchies in the 19th century that clung to divine right while failing to articulate a modern role, making them vulnerable to nationalist and democratic movements
+
+**Coercive Systems to Maintain Control:**
+- The Qing Dynasty's increasingly repressive measures in its final decades, using force to suppress reform movements rather than adapting to new realities
+- The late Ottoman Empire's turn to authoritarianism and ethnic scapegoating as its multi-ethnic imperial mission became untenable
+- Eastern European communist regimes in the 1980s, which relied on secret police and censorship as ideological conviction evaporated
+
+The pattern is consistent: when the original justification for power erodes, leaders either reinvent the mission or resort to coercion. The former requires vision and legitimacy; the latter accelerates decay. 
+
+This is why successful transitions between stages often require either genuine crisis (providing new threats) or transformational leadership (articulating new missions). Without either, systems limp forward until external shock or internal rupture forces the next turn of the cycle.
