@@ -24,14 +24,15 @@ With time, and as that mission is accomplised or that threat is neutralized, the
 Bad leaders fail because they either a) fail to renew the long-term mission, or b) lacking substance, build coercive systems to hold the collapsing status quo together. Examples of this are:
 
 **Failure to Renew Mission:**
-- Late Roman emperors who, after centuries of expansion and consolidation, offered no compelling vision beyond maintenance, leading to internal fragmentation and loss of civic virtue
-- The Soviet Union's post-revolutionary generations, who inherited a completed revolution but received only stagnant bureaucracy rather than renewed purpose, resulting in cynicism and eventual collapse
-- European monarchies in the 19th century that clung to divine right while failing to articulate a modern role, making them vulnerable to nationalist and democratic movements
+- **Commodus** (180-192 AD), son of Marcus Aurelius, inherited a stable empire at its zenith but offered nothing beyond gladiatorial spectacles and personal indulgence. Where his father embodied Stoic duty, Commodus represented hollow decadence, accelerating Rome's slide toward the Crisis of the Third Century.
+- **Louis XVI** of France, who inherited a system designed for absolutist expansion but had no vision for a nation facing bankruptcy and Enlightenment ideals. His indecisiveness and inability to articulate a renewed purpose left a vacuum filled by revolution.
+- **Leonid Brezhnev** and the gerontocracy of late Soviet leadership (Andropov, Chernenko), who inherited a completed revolution but offered only "stability" and stagnation. With no mission beyond maintaining power, the USSR became a cynical shell that Gorbachev's reforms couldn't save.
+
 
 **Coercive Systems to Maintain Control:**
-- The Qing Dynasty's increasingly repressive measures in its final decades, using force to suppress reform movements rather than adapting to new realities
-- The late Ottoman Empire's turn to authoritarianism and ethnic scapegoating as its multi-ethnic imperial mission became untenable
-- Eastern European communist regimes in the 1980s, which relied on secret police and censorship as ideological conviction evaporated
+- **Dowager Empress Cixi** and the late Qing court, who responded to reform pressure with the execution of the Hundred Days' Reform leaders and support for the Boxer Rebellion, choosing xenophobia and repression over adaptation.
+- **Sultan Abdul Hamid II** of the Ottoman Empire, who suspended the constitution, employed vast spy networks, and unleashed ethnic violence against Armenians rather than address the empire's fundamental legitimacy crisis.
+- **Nicolae Ceaușescu** in Romania, who built a cult of personality and deployed the Securitate to terrorize the population as communist ideology lost all credibility. His regime survived on fear alone until it collapsed in days.
 
 The pattern is consistent: when the original justification for power erodes, leaders either reinvent the mission or resort to coercion. The former requires vision and legitimacy; the latter accelerates decay. 
 
