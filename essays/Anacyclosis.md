@@ -38,6 +38,6 @@ Bad leaders fail because they either a) fail to renew the long-term mission, or 
 
 - **Nicolae Ceaușescu** built one of the most extreme cults of personality in the Eastern Bloc, presenting himself and his wife as infallible “geniuses” while the Securitate terrorized the population. By the late 1980s, communist ideology in Romania had no credibility left; the regime endured solely through fear. When that fear finally broke during the 1989 uprising, as the public booed him on live television and the army refused to fire on civilians, the entire system collapsed in days.
 
-The pattern is consistent: when the original justification for power erodes, leaders either reinvent the mission or resort to coercion. The former requires vision and legitimacy; the latter accelerates decay. 
+The pattern is consistent: when the original justification for power erodes, leaders either reinvent the mission or rely on coercion. Reinvention can produce renewal if it’s grounded in real capacity and legitimacy. Coercion can delay collapse, sometimes for a surprisingly long time, but it cannot reverse the underlying decay. It only preserves a system that has already stopped evolving.
 
 This is why successful transitions between stages often require either genuine crisis (providing new threats) or transformational leadership (articulating new missions). Without either, systems limp forward until external shock or internal rupture forces the next turn of the cycle.
