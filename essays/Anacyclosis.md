@@ -34,7 +34,7 @@ Bad leaders fail because they either a) fail to renew the long-term mission, or 
 **Coercive Systems to Maintain Control:**
 - **Dowager Empress Cixi** crushed the Hundred Days’ Reform in 1898, executed key reformers, and then tried to rally the empire by casting foreign powers as an existential enemy. Backing the Boxer uprising was her bid to unify the empire through a shared threat, but it was a delusional mission: the state was too weak, the enemy too strong, and modernization was the only viable path she had already closed. Her attempt at mission-renewal became a coercive, reactive mobilization that hastened the Qing dynasty’s collapse.
 
-- **Sultan Abdul Hamid II** of the Ottoman Empire, who suspended the constitution, employed vast spy networks, and unleashed ethnic violence against Armenians rather than address the empire's fundamental legitimacy crisis.
+- **Sultan Abdul Hamid II** suspended the constitution, dissolved parliament, and built a vast surveillance and censorship apparatus to maintain control as the Ottoman Empire’s legitimacy eroded. Instead of confronting the empire’s structural decay, he relied on repression, including tolerating and enabling large-scale violence against Armenians in the 1890s. His regime survived through coercion, not renewal, accelerating the
 
 - **Nicolae Ceaușescu** in Romania, who built a cult of personality and deployed the Securitate to terrorize the population as communist ideology lost all credibility. His regime survived on fear alone until it collapsed in days.
 
