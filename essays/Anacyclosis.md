@@ -27,12 +27,15 @@ Bad leaders fail because they either a) fail to renew the long-term mission, or 
 - **Commodus** (180-192 AD) inherited a stable empire from Marcus Aurelius, but his rule marked a break from Stoic duty toward self-indulgence, court corruption, and political instability. His vanity, mismanagement, and reliance on corrupt favorites weakened imperial authority and set off a chain of turmoil that helped push Rome toward the Crisis of the Third Century.
 
 - **Louis XVI** of France, who inherited a system designed for absolutist expansion but had no vision for a nation facing bankruptcy and Enlightenment ideals. His indecisiveness and inability to articulate a renewed purpose left a vacuum filled by revolution.
+
 - **Leonid Brezhnev** and the gerontocracy of late Soviet leadership (Andropov, Chernenko), who inherited a completed revolution but offered only "stability" and stagnation. With no mission beyond maintaining power, the USSR became a cynical shell that Gorbachev's reforms couldn't save.
 
 
 **Coercive Systems to Maintain Control:**
-- **Dowager Empress Cixi** and the late Qing court, who responded to reform pressure with the execution of the Hundred Days' Reform leaders and support for the Boxer Rebellion, choosing xenophobia and repression over adaptation.
+- **Dowager Empress Cixi** and the late Qing court crushed the Hundred Days’ Reform in 1898, executed several reformers, and later backed the Boxer Rebellion in a desperate attempt to expel foreign influence. By choosing repression and anti-foreign mobilization over structural reform, the dynasty undermined its last real chance at adaptation.
+
 - **Sultan Abdul Hamid II** of the Ottoman Empire, who suspended the constitution, employed vast spy networks, and unleashed ethnic violence against Armenians rather than address the empire's fundamental legitimacy crisis.
+
 - **Nicolae Ceaușescu** in Romania, who built a cult of personality and deployed the Securitate to terrorize the population as communist ideology lost all credibility. His regime survived on fear alone until it collapsed in days.
 
 The pattern is consistent: when the original justification for power erodes, leaders either reinvent the mission or resort to coercion. The former requires vision and legitimacy; the latter accelerates decay. 
