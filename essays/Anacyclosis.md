@@ -32,7 +32,7 @@ Bad leaders fail because they either a) fail to renew the long-term mission, or 
 
 
 **Coercive Systems to Maintain Control:**
-- **Dowager Empress Cixi** and the late Qing court crushed the Hundred Days’ Reform in 1898, executed several reformers, and later backed the Boxer Rebellion in a desperate attempt to expel foreign influence. By choosing repression and anti-foreign mobilization over structural reform, the dynasty undermined its last real chance at adaptation.
+- **Dowager Empress Cixi** and the late Qing court crushed the Hundred Days’ Reform in 1898, executed key reformers, and then turned to the Boxer movement as a tool of mass mobilization. Instead of confronting the dynasty’s structural weaknesses, Cixi relied on repression, purges, and a desperate gamble on popular militancy. These moves were not driven by vision but by fear of losing control, and they destroyed what little capacity the state had left to adapt.
 
 - **Sultan Abdul Hamid II** of the Ottoman Empire, who suspended the constitution, employed vast spy networks, and unleashed ethnic violence against Armenians rather than address the empire's fundamental legitimacy crisis.
 
