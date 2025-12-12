@@ -40,4 +40,4 @@ Bad leaders fail because they either a) fail to renew the long-term mission, or 
 
 The pattern is consistent: when the original justification for power erodes, leaders either reinvent the mission or rely on coercion. Reinvention can produce renewal if it’s grounded in real capacity and legitimacy. Coercion can delay collapse, sometimes for a surprisingly long time, but it cannot reverse the underlying decay. It only preserves a system that has already stopped evolving.
 
-This is why successful transitions between stages often require either genuine crisis (providing new threats) or transformational leadership (articulating new missions). Without either, systems limp forward until external shock or internal rupture forces the next turn of the cycle.
+This is why transitions between stages rarely happen on their own. They usually require either a genuine crisis that creates a new unifying threat, or a transformational leader who can articulate a new mission. Without either force, systems don’t evolve and drift on inertia, regulation, or coercion until an external shock or internal rupture finally forces the next turn of the cycle.
