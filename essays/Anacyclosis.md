@@ -24,7 +24,8 @@ With time, and as that mission is accomplised or that threat is neutralized, the
 Bad leaders fail because they either a) fail to renew the long-term mission, or b) lacking substance, build coercive systems to hold the collapsing status quo together. Examples of this are:
 
 **Failure to Renew Mission:**
-- **Commodus** (180-192 AD), son of Marcus Aurelius, inherited a stable empire at its zenith but offered nothing beyond gladiatorial spectacles and personal indulgence. Where his father embodied Stoic duty, Commodus represented hollow decadence, accelerating Rome's slide toward the Crisis of the Third Century.
+- **Commodus** (180-192 AD) inherited a stable empire from Marcus Aurelius, but his rule marked a sharp break from Stoic duty toward self-indulgence, court corruption, and political instability. His vanity, mismanagement, and reliance on corrupt favorites weakened imperial authority and set off a chain of turmoil that helped push Rome toward the Crisis of the Third Century.
+
 - **Louis XVI** of France, who inherited a system designed for absolutist expansion but had no vision for a nation facing bankruptcy and Enlightenment ideals. His indecisiveness and inability to articulate a renewed purpose left a vacuum filled by revolution.
 - **Leonid Brezhnev** and the gerontocracy of late Soviet leadership (Andropov, Chernenko), who inherited a completed revolution but offered only "stability" and stagnation. With no mission beyond maintaining power, the USSR became a cynical shell that Gorbachev's reforms couldn't save.
 
