@@ -36,7 +36,7 @@ Bad leaders fail because they either a) fail to renew the long-term mission, or 
 
 - **Sultan Abdul Hamid II** suspended the constitution, dissolved parliament, and built a vast surveillance and censorship apparatus to maintain control as the Ottoman Empire’s legitimacy eroded. Instead of confronting the empire’s structural decay, he relied on repression, including tolerating and enabling large-scale violence against Armenians in the 1890s. His regime survived through coercion, accelerating the empire’s political breakdown.
 
-- **Nicolae Ceaușescu** in Romania, who built a cult of personality and deployed the Securitate to terrorize the population as communist ideology lost all credibility. His regime survived on fear alone until it collapsed in days.
+- **Nicolae Ceaușescu** built one of the most extreme cults of personality in the Eastern Bloc, presenting himself and his wife as infallible “geniuses” while the Securitate terrorized the population. By the late 1980s, communist ideology in Romania had no credibility left; the regime endured solely through fear. When that fear finally broke during the 1989 uprising — as the public booed him on live television and the army refused to fire on civilians — the entire system collapsed in days.
 
 The pattern is consistent: when the original justification for power erodes, leaders either reinvent the mission or resort to coercion. The former requires vision and legitimacy; the latter accelerates decay. 
 
