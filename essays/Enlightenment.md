@@ -101,14 +101,6 @@ A Second Enlightenment must successfully answer the same three questions the ori
 
 *Original answer*: Natural rights (life, liberty, property) and the pursuit of happiness through reason.
 
-*Today's challenge*: Your digital identity is owned by corporations, institutions and governments. Your data trains AI that replaces your job.
-
-*Possible directions*:
-
-**2) What rights and purpose does the individual have?**
-
-*Original answer*: Natural rights (life, liberty, property) and the pursuit of happiness through reason.
-
 *Today's challenge*: Your digital identity is owned by corporations, institutions and governments. Your data trains AI that replaces your job. Your communications are surveilled by default. Your financial transactions are monitored and can be frozen without trial. You cannot easily exit broken institutions or oppressive jurisdictions.
 
 *Possible directions*:
