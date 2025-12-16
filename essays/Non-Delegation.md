@@ -297,4 +297,4 @@ So the mission is clear: build systems where freedom is the default state, not a
 
 *Layer-2 solutions*: Protocols built on top of blockchain networks to improve transaction speed and reduce costs while maintaining security guarantees of the base layer.
 
-*Proof-of-reserves*: Cryptographic proof that an institution holds the assets it claims to custody, enabling auditing without revealing specific user balances. 
+*Proof-of-reserves*: Cryptographic proof that an institution holds the assets it claims to custody, enabling auditing without revealing specific user balances.
