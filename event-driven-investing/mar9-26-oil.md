@@ -150,18 +150,7 @@ Why it doesn't solve the problem:
 | Long corn / short soybeans | CBOT spread | Planting switch locks in April. Corn tightens Q4. | Hormuz reopens fast, nitrogen normalizes |
 | Long ex-Gulf fertilizer | CF, NTR, OCI, YARA | Gulf competitors offline. 2x pricing power. Q2 earnings. | Price reversal on peace deal |
 | Long gold | GLD, IAU | Fed paralysis confirmed March 18. Real rates negative. ATH $5,594. | Quick resolution removes war premium |
-| Long TTF winter forwards | Q4 2026 / Q1 2027 TTF | Storage refill math fails without Qatar | EU finds alternative supply |
 | Long TIPS / short TLT | TIP, VTIP, TLT puts | Breakevens at 2.39% vs incoming 4%+ CPI | Deflation from demand destruction |
-| Long oil (buy SPR dip) | Brent futures, BNO | Duration > market expectation. Back-month IV cheap. | Ceasefire by March 20 |
-
-### Asymmetric Bets
-
-| Trade | Vehicle | Payout |
-|-------|---------|--------|
-| Brent $140-160 calls (June) | ICE options | 3-5x if dual chokepoint triggers |
-| Short EM oil importers | INDA puts, TUR puts, short INR/TRY | 20-40% downside. Hasn't started yet. |
-| Short European industrials | BASF, ThyssenKrupp, ArcelorMittal | Energy Crisis 2.0 in winter 2026-27 |
-| Short EUR/USD | FX or EUO | Energy costs + frozen ECB. Parity revisit. |
 
 ### What Not To Do
 
@@ -195,10 +184,8 @@ Why it doesn't solve the problem:
 The market is pricing the oil headline ($110 Brent). It is not pricing the cascade. Five things are mispriced:
 
 1. **Fertilizer up 27-44%, food futures flat.** 8-quarter lag. Irreversible planting decisions in 6 weeks. Window closes March 31.
-2. **Europe can't refill gas storage without Qatar.** The TTF winter forward curve assumes normalization the refill math doesn't support.
-3. **Back-month oil vol is cheap.** The deferred curve prices mean reversion that structural factors contradict. June-September calls at 15-20% discount to front-month IV.
-4. **Oil-importing EM equities haven't repriced.** India (85% import), Turkey (93%). Cross-silo blind spot between energy and EM equity research. Hasn't started moving.
-5. **Breakevens at 2.39% vs incoming 4%+ CPI.** The TIPS market is pricing transitory. If we're right about duration, breakevens need 3.5-4.0%.
+2. **Oil-importing EM equities haven't repriced.** India (85% import), Turkey (93%). Cross-silo blind spot between energy and EM equity research. Hasn't started moving.
+3. **Breakevens at 2.39% vs incoming 4%+ CPI.** The TIPS market is pricing transitory. If we're right about duration, breakevens need 3.5-4.0%.
 
 ---
 
