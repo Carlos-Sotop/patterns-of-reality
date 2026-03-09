@@ -236,5 +236,4 @@ This deserves special attention because it's the single highest-impact, underpri
 
 ---
 
-*Synthesized from seven parallel research streams. Full agent reports in tmp-*.md files.*
 *Previous logs: [Feb 12](Feb12-26.md) | [Feb 24](Feb24-26.md) | [Mar 6](Mar6-26.md)*
