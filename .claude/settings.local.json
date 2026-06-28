@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(git -C /Users/carlos/Web/Patterns/patterns-of-reality log --name-only --oneline | head -50)",
+      "Bash(git -C /Users/carlos/Web/Patterns/patterns-of-reality log --all --full-history -- \"*event*\")",
+      "mcp__claude_ai_Crypto_com__get_ticker",
+      "WebFetch(domain:tradingeconomics.com)",
+      "Bash(wc:*)",
+      "mcp__claude_ai_Crypto_com__get_tickers",
+      "Bash(python3 -c ':*)"
+    ]
+  }
+}
